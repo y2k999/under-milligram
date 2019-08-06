@@ -1,7 +1,7 @@
 1. Theme
 Under Milligram, Copyright 2019.
 This theme is licensed under GNU General Public License V2 or later.
-You can find a copy of it in the license.txt file.
+Theme URI: https://github.com/y2k999/under-milligram
 
 2. Resources
 #2.1 Underscores
