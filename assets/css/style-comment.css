@@ -1,0 +1,75 @@
+/* Comment design */
+ol.comment-list {
+	padding: 0;
+	background: #fafafa;
+}
+
+ol.children {
+	background: #eee;
+	margin: 0;
+}
+
+ol.children li {
+	padding: 0 0 0 3rem;
+	margin-bottom: 0;
+}
+
+li.depth-1 > article {
+	padding: 10px;
+}
+
+.comment-author.vcard {
+	float: left;
+	margin-right: 10px;
+}
+
+
+.comment-meta.commentmetadata {
+	float: right;
+}
+
+li.comment {
+	border-bottom: 1px solid #eee;
+}
+
+article.comment-body p {
+	margin: 0;
+	line-height: 1.3;
+	display: inline;
+}
+
+article .reply {
+	float: left;
+	clear: left;
+}
+
+.fleft {
+	float: left; width: 90%;     margin-bottom: 10px;
+}
+
+em.comment-awaiting-moderation {
+	display: block;
+	background: #eee;
+	padding: 0 5px;
+	margin: 4px 0;
+	clear: both;
+	text-align: center;
+}
+
+li.comment article a {
+	text-decoration: none;
+}
+
+div#respond h3 {
+	font-size: 2.5rem;
+}
+
+div#respond {
+	padding: 20px;
+	background: #fff;
+	border: 1px solid #ededed;
+}
+
+#respond p.form-submit, #respond .submit, form#commentform, p.comment-form-comment {
+	margin-bottom: 0;
+}
